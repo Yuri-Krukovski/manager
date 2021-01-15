@@ -1,0 +1,16 @@
+
+o
+java:S1192'"YDefine a constant instead of duplicating this literal "Cakes Retrieved Properly" 3 times.(Ž•ëÉ
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(­ÙÅ¬ùÿÿÿÿ
+`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(µÉÐ†þÿÿÿÿ
+`	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(Ò’Ô“üÿÿÿÿ
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(¦æÔéÿÿÿÿÿ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(€¿¬õüÿÿÿÿ
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¿¬õüÿÿÿÿ
+>	java:S108I")Either remove or fill this block of code.(å¥ž‡
+V	java:S125R"<This block of commented-out lines of code should be removed.(ä™ìÞûÿÿÿÿ
+t
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¿¬õüÿÿÿÿ
+Q	java:S125z"<This block of commented-out lines of code should be removed.(ÿ¥âì

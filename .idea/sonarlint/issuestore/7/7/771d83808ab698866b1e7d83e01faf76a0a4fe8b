@@ -1,0 +1,7 @@
+
+XWeb:UnsupportedTagsInHtml5Check""(Remove this deprecated "center" element.(”ş¨óúÿÿÿÿ
+GWeb:BoldAndItalicTagsCheck&"!Replace this <b> tag by <strong>.(îèâ´
+SWeb:UnsupportedTagsInHtml5Check)"(Remove this deprecated "center" element.(¡á€Ò
+MWeb:TableWithoutCaptionCheck*" Add a description to this table.(¿‰˜ÿÿÿÿÿ
+?	Web:S5256*"%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿ
+NWeb:AvoidCommentedOutCodeCheck?"Remove this commented out code.(øÛšÙüÿÿÿÿ
